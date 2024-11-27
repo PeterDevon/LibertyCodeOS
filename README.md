@@ -1,3 +1,5 @@
+
+
 **Choose Freedom. Choose LibertyCodeOS.**
 
 LibertyCodeOS is a extremely private, customizable Linux distribution (minimal Debian based) aimed at users who care about privacy and also want to do cool stuff with media creation or software development, but really you can use it however you want.
